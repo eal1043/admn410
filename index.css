@@ -1,0 +1,51 @@
+body {
+background-color: #ABBBB3;
+}
+h1 {
+font-size: 60px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+text-align: center;
+color: #245B09;
+}
+h3 {
+font-size: 25px;
+font-family:"Comic Sans Ms", cursive, sans-serif;
+text-align: center;
+color: #088A08;
+} 
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #62964A;
+border-radius: 20px;
+}
+li {
+display: inline;
+margin-right: 20px;
+}
+lia {display: block;
+color: #F2FBEE;
+text-align: center;
+padding: 14px16px;
+text-decoration: none;
+}
+nav {
+font-size:15px;
+fon-family:"Comic Sans MS", cursive, sans-serif;
+color: black;
+}
+section {
+float:left
+padding: 70px;
+line-height: 2.0;
+color: #245B09;
+font-size: 20px;
+}
+footer {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
