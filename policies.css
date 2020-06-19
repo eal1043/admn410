@@ -36,18 +36,7 @@ font-size:15px;
 font-family:"Comic Sans MS", cursive, sans-serif;
 color: black;
 }
-figure {
-display: table;
-border-top: none;
-padding-top: 0;
-}
-figcaption {
-display: table-caption;
-caption-side: bottom;
-padding: 0.5em;
-border-bottom: none;
-color:#245B09;
-}
+
 footer {
 clear: both;
 width: 890px;
@@ -55,5 +44,9 @@ height:100px;
 text-align:center;
 }
 section {
-float: left;
+float:left;
+padding:15px;
+font-size:20px;
+line-height:1.5;
+color: #245B09;
 }
